@@ -288,6 +288,7 @@ marquee {
   border-radius: 15px;
   position: relative;
   left: -400px;
+  top: 20px;
 }
 .story-btn-darkslategrey {
   background-color: darkslategray;
