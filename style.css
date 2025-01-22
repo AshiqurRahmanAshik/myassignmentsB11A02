@@ -290,7 +290,8 @@ marquee {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -40%);
+  transform: translate(-50%, 20%);
+}
 .story-btn-darkslategrey {
   background-color: darkslategray;
   border: none;
