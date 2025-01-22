@@ -238,6 +238,9 @@ marquee {
 .primary-img {
   background-color: white;
   border-radius: 20px;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
 }
 .img2,
 .img3,
@@ -284,6 +287,7 @@ marquee {
   width: 150px;
   border-radius: 15px;
   position: relative;
+  left: -400px;
 }
 .story-btn-darkslategrey {
   background-color: darkslategray;
