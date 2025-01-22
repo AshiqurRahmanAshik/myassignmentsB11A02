@@ -225,6 +225,7 @@ marquee {
 
 .primary-img,
 .img-description {
+  position: relative;
   justify-items: center;
   text-align: center;
 }
@@ -286,9 +287,10 @@ marquee {
   height: 45px;
   width: 150px;
   border-radius: 15px;
-  position: relative;
-  left: -450px;
-}
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -40%);
 .story-btn-darkslategrey {
   background-color: darkslategray;
   border: none;
